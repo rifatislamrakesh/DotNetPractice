@@ -1,0 +1,15 @@
+C:\Users\rifat\Desktop\.netCorePractice\DotNetDebugging\bin\Debug\net6.0\DotNetDebugging.exe
+C:\Users\rifat\Desktop\.netCorePractice\DotNetDebugging\bin\Debug\net6.0\DotNetDebugging.deps.json
+C:\Users\rifat\Desktop\.netCorePractice\DotNetDebugging\bin\Debug\net6.0\DotNetDebugging.runtimeconfig.json
+C:\Users\rifat\Desktop\.netCorePractice\DotNetDebugging\bin\Debug\net6.0\DotNetDebugging.dll
+C:\Users\rifat\Desktop\.netCorePractice\DotNetDebugging\bin\Debug\net6.0\ref\DotNetDebugging.dll
+C:\Users\rifat\Desktop\.netCorePractice\DotNetDebugging\bin\Debug\net6.0\DotNetDebugging.pdb
+C:\Users\rifat\Desktop\.netCorePractice\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.csproj.AssemblyReference.cache
+C:\Users\rifat\Desktop\.netCorePractice\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifat\Desktop\.netCorePractice\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\rifat\Desktop\.netCorePractice\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\rifat\Desktop\.netCorePractice\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\rifat\Desktop\.netCorePractice\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.dll
+C:\Users\rifat\Desktop\.netCorePractice\DotNetDebugging\obj\Debug\net6.0\ref\DotNetDebugging.dll
+C:\Users\rifat\Desktop\.netCorePractice\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.pdb
+C:\Users\rifat\Desktop\.netCorePractice\DotNetDebugging\obj\Debug\net6.0\DotNetDebugging.genruntimeconfig.cache
