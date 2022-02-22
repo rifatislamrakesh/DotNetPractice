@@ -3,15 +3,13 @@ using System.Collections.Generic;
 //Starting with .NET 6, the two statements in the above code are automatically 
 
 //Method 1
-
+/*
 var salesFiles = FindFiles("stores");
 
-// foreach (var file in salesFiles)
-// {
-//     Console.WriteLine(file);
-// }
-
-
+foreach (var file in salesFiles)
+{
+    Console.WriteLine(file);
+}
 
 IEnumerable<string> FindFiles(string folderName)
 {
@@ -30,19 +28,25 @@ IEnumerable<string> FindFiles(string folderName)
 
     return salesFiles;
 }
+*/
 
 // Method 2 - more useful
 
-/*
 var currentDirectory = Directory.GetCurrentDirectory();
 var storesDirectory = Path.Combine(currentDirectory, "stores");
 
+var salesTotalDir = Path.Combine(currentDirectory, "salesTotalDir");
+Directory.CreateDirectory(salesTotalDir);
+
 var salesFiles = FindFiles(storesDirectory);
     
-foreach (var file in salesFiles)
-{
-    Console.WriteLine(file);
-}
+// foreach (var file in salesFiles)
+// {
+//     Console.WriteLine(file);
+// }
+
+File.WriteAllText(Path.Combine(salesTotalDir, "totals.txt"), String.Empty);
+
 
 IEnumerable<string> FindFiles(string folderName)
 {
@@ -61,4 +65,3 @@ IEnumerable<string> FindFiles(string folderName)
 
     return salesFiles;
 }
-*/
