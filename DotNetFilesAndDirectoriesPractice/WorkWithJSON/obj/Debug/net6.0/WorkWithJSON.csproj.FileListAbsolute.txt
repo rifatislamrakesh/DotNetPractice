@@ -1,0 +1,17 @@
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\bin\Debug\net6.0\WorkWithJSON.exe
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\bin\Debug\net6.0\WorkWithJSON.deps.json
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\bin\Debug\net6.0\WorkWithJSON.runtimeconfig.json
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\bin\Debug\net6.0\WorkWithJSON.dll
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\bin\Debug\net6.0\ref\WorkWithJSON.dll
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\bin\Debug\net6.0\WorkWithJSON.pdb
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\obj\Debug\net6.0\WorkWithJSON.csproj.AssemblyReference.cache
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\obj\Debug\net6.0\WorkWithJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\obj\Debug\net6.0\WorkWithJSON.AssemblyInfoInputs.cache
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\obj\Debug\net6.0\WorkWithJSON.AssemblyInfo.cs
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\obj\Debug\net6.0\WorkWithJSON.csproj.CoreCompileInputs.cache
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\obj\Debug\net6.0\WorkWithJSON.dll
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\obj\Debug\net6.0\ref\WorkWithJSON.dll
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\obj\Debug\net6.0\WorkWithJSON.pdb
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\obj\Debug\net6.0\WorkWithJSON.genruntimeconfig.cache
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rifat\Desktop\.netCorePractice\DotNetFilesAndDirectoriesPractice\WorkWithJSON\obj\Debug\net6.0\WorkWithJSON.csproj.CopyComplete

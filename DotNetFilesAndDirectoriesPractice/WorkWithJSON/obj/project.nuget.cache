@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YMu8vMBgrudz4R4LMOyk+HrNNgi0LTdQBoHHMtqOkrnC+metBbnG7fZ6jB/jT/ZRtg6aZ3q/5dieN5tSg4Boag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rifat\\Desktop\\.netCorePractice\\DotNetFilesAndDirectoriesPractice\\WorkWithJSON\\WorkWithJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rifat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
