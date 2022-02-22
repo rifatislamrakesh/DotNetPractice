@@ -6,10 +6,12 @@ using System.Collections.Generic;
 
 var salesFiles = FindFiles("stores");
 
-foreach (var file in salesFiles)
-{
-    Console.WriteLine(file);
-}
+// foreach (var file in salesFiles)
+// {
+//     Console.WriteLine(file);
+// }
+
+
 
 IEnumerable<string> FindFiles(string folderName)
 {
